@@ -2,10 +2,10 @@
   "name": "e2sm",
   "version": "0.6.5",
   "license": "MIT",
-  "author": "unmett",
+  "author": "meltin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unmett/e2sm.git"
+    "url": "git+https://github.com/meltin/e2sm.git"
   },
   "bin": {
     "e2sm": "dist/index.mjs"
