@@ -1,5 +1,11 @@
 # e2sm
 
+## 0.6.7
+
+### Patch Changes
+
+- [#17](https://github.com/meltin/e2sm/pull/17) [`9d4ed15`](https://github.com/meltin/e2sm/commit/9d4ed153d7840821e5f7423ad649750f7b69c097) Thanks [@meltin](https://github.com/meltin)! - Update package metadata for the GitHub username change from `unmett` to `meltin` (author, repository URL, Changesets configuration, and LICENSE).
+
 ## 0.6.6
 
 ### Patch Changes
