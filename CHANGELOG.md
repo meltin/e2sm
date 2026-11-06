@@ -1,5 +1,11 @@
 # e2sm
 
+## 0.6.6
+
+### Patch Changes
+
+- Update package metadata for the GitHub username change from `xrryx` to `ixxq` (author, repository URL, and LICENSE).
+
 ## 0.6.5
 
 ### Patch Changes
